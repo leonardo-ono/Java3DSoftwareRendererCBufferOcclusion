@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/View.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/rasterizer/Vertex.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/bsp3d/Triangle.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/Mouse.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/Image.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/math/Vec4.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/ViewCanvas.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/Transform.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/rasterizer/CBufferScan.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/Material.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/core/Renderer.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/shader/GouraudShader.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/parser/wavefront/WavefrontParser.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/math/Vec2.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/bsp3d/Node.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/shader/GouraudShaderWithTexture.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/occlusion/cbuffer/Scan.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/math/Vec3.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/bsp3d/Plane.java</file>
+            <file>file:/D:/work/java/Renderer3D_cbuffer_3/src/renderer/parser/wavefront/Obj.java</file>
+        </group>
+    </open-files>
+</project-private>
